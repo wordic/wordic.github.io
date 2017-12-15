@@ -1,2 +1,2 @@
 # wordic.github.io
-my dictionaryy
+my dictionary
